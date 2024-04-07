@@ -44,7 +44,8 @@
     "@stdlib/math-base-special-asinf": "github:stdlib-js/math-base-special-asinf#main",
     "@stdlib/math-base-special-rad2degf": "github:stdlib-js/math-base-special-rad2degf#main",
     "@stdlib/number-float64-base-to-float32": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-library-manifest": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.1",
