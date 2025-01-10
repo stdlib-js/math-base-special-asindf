@@ -211,6 +211,13 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/asinf`][@stdlib/math/base/special/asinf]</span><span class="delimiter">: </span><span class="description">compute the arcsine of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asind`][@stdlib/math/base/special/asind]</span><span class="delimiter">: </span><span class="description">compute the arcsine (in degrees) of a double-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -241,7 +248,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -290,6 +297,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [arcsine]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/asinf]: https://github.com/stdlib-js/math-base-special-asinf
+
+[@stdlib/math/base/special/asind]: https://github.com/stdlib-js/math-base-special-asind
 
 <!-- </related-links> -->
 
