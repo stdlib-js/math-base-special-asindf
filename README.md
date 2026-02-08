@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import asindf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asindf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-asindf/tags). For example,
+
+```javascript
 import asindf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asindf@v0.1.2-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ var v = asindf( -3.14 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import asindf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asindf@v0.1.2-esm/index.mjs';
+import asindf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asindf@esm/index.mjs';
 
 var x = uniform( 100, -1.0, 1.0, {
     'dtype': 'float32'
